@@ -11,7 +11,7 @@
 
 
 ## Demo
-Link: [https://bengaluru-housing-prediction.herokuapp.com/](https://bengaluru-housing-prediction.herokuapp.com/)
+Link: [https://bengluru-house-price.herokuapp.com/](https://bengluru-house-price.herokuapp.com/)
 
 ![](https://i.imgur.com/8LUsseb.png)
 
