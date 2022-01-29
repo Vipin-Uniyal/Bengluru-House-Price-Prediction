@@ -11,7 +11,7 @@
 
 
 ## Demo
-Link: [https://bengluru-house-price.herokuapp.com/](https://bengluru-house-price.herokuapp.com/)
+Link: [https://bengluru-house-price-vipin.herokuapp.com/](https://bengluru-house-price-vipin.herokuapp.com/)
 
 ![](https://i.imgur.com/8LUsseb.png)
 
