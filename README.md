@@ -21,8 +21,7 @@ Link: [https://bengluru-house-price-vipin.herokuapp.com/](https://bengluru-house
 This is a Flask web app which predicts housing prices in the Bengaluru city.
 
 ## Motivation
-What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
-
+I want to shift to Bengluru, the Silicone Valley of India. Created this web app to get an idea of the amount of money I would need in this conquest. 😁
 ## Installation
 The Code is written in Python 3.8.12. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
